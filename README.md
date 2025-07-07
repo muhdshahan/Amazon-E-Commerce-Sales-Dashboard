@@ -7,7 +7,7 @@ The **Amazon Sales Dashboard** is a Power BI project designed to visualize and a
 - **Power BI** for dashboard creation and data visualization.
 
 ## 📊 Dataset Used
-<a href="https://github.com/muhdshahan/hospital-healthcare-dashboard/tree/main/Datasets">Amazon Sales Dataset</a>
+<a href="https://github.com/muhdshahan/Amazon-E-Commerce-Sales-Dashboard/blob/main/Datasets.rar">Amazon Sales Dataset</a>
 
 ## 🔑 Key Metrics
 - **Total Sale**: Aggregated sales volume across all products.
@@ -32,17 +32,17 @@ The dataset was structured and imported into Power BI. Relationships were create
 ## 🖼️ Image Preview
 - **Overview View**
   
-![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(735).png)
+![Dashboard View](https://github.com/muhdshahan/Amazon-E-Commerce-Sales-Dashboard/blob/main/Screenshot%20(1113).png)
 
 
 - **Product Grid View**
   
-![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(736).png)
+![Dashboard View](https://github.com/muhdshahan/Amazon-E-Commerce-Sales-Dashboard/blob/main/Screenshot%20(1114).png)
 
 
 - **Product Detail View**
   
-![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(737).png)
+![Dashboard View](https://github.com/muhdshahan/Amazon-E-Commerce-Sales-Dashboard/blob/main/Screenshot%20(1115).png)
 
 ## 📌 Conclusion
 This dashboard acts as a valuable tool for e-commerce stakeholders looking to track product performance, understand customer geography, and make informed decisions based on real-time metrics. Its clean layout, filters, and visual storytelling make it ideal for both business and data reporting use cases.
